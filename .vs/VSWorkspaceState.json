@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JsonBase64",
+    "\\JsonBase64\\JsonBase64",
+    "\\JsonBase64\\JsonBase64\\AppResources",
+    "\\JsonBase64\\JsonBase64\\Helpers",
+    "\\JsonBase64\\JsonBase64\\Model",
+    "\\JsonBase64\\JsonBase64\\Services",
+    "\\JsonBase64\\JsonBase64\\ViewModel"
+  ],
+  "SelectedNode": "\\JsonBase64",
+  "PreviewInSolutionExplorer": false
+}
